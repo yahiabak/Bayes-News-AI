@@ -17,7 +17,7 @@ Built with `scikit-learn` and deployed via a live `Streamlit` web app.
 ### 1. Clone the Repo
 
 git clone https://github.com/YOUR_USERNAME/BayesNewsAI.git
--cd BayesNewsAI
+- cd BayesNewsAI
 pip install -r requirements.txt
 cd streamlit_app
 streamlit run app.py
